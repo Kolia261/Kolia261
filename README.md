@@ -3,12 +3,12 @@
 ## STATS:
 
 <div>
-  <img alt="Nv_Ram's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
-  <img alt="Nv_Ram's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
+  <img alt="Nv_Ram's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=Kolia261&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
+  <img alt="Nv_Ram's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kolia261&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
 </div>
 
 <div>
-  <img alt="NvRam's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devitq&theme=transparent&hide_border=true">
+  <img alt="Nv_Ram's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Kolia261&theme=transparent&hide_border=true">
 </div>
 
 ## TECHICAL STACK:
