@@ -1,7 +1,5 @@
 <h1 align="center">HI THERE, I'M <a style="text-decoration:none;" href="[https://itqdev.ru/](https://t.me/Nv_Ram)" target="_blank">Nv_Ram</a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kolia261&bg_color=ffffff&color=777777&line=00ff00&point=0000ff&area=true&hide_border=true)]()
-
 ## STATS:
 
 <div>
