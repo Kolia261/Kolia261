@@ -5,7 +5,7 @@
 <div>
   <img alt="Nv_Ram's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
   <img alt="Nv_Ram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
-  <img alt="Nv_Ram's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kolia261&theme=dark&hide_border=true" />
+  <img alt="Nv_Ram's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kolia261&theme=white&hide_border=true" />
 </div>
 
 ## TECHNICAL STACK:
