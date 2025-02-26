@@ -1,13 +1,14 @@
-<h1 align="center">HI THERE, I'M <a style="text-decoration:none;" href="[https://itqdev.ru/](https://t.me/Nv_Ram)" target="_blank">Nv_Ram</a>
+<h1 align="center">HI THERE, I'M <a style="text-decoration:none;" href="https://itqdev.ru/" target="_blank">Nv_Ram</a></h1>
 
 ## STATS:
 
 <div>
-  <img alt="Nv_Ram's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=Kolia261&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
-  <img alt="Nv_Ram's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kolia261&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact"
+  <img alt="Nv_Ram's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
+  <img alt="Nv_Ram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
+  <img alt="Nv_Ram's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kolia261&theme=dark&hide_border=true" />
 </div>
 
-## TECHICAL STACK:
+## TECHNICAL STACK:
 
 ### Languages
 
@@ -28,12 +29,12 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Design & collab tools
+### Design & Collaboration Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 
-### VCS
+### Version Control Systems
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
