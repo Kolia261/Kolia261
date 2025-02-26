@@ -3,9 +3,9 @@
 ## 📊 STATS
 
 <div align="center">
-  <img alt="Nv_Ram's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000&include_all_commits=true" />
-  <img alt="Nv_Ram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000&include_all_commits=true&layout=compact" />
-  <img alt="Nv_Ram's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kolia261&theme=white&hide_border=true" />
+  <img alt="Nv_Ram's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000&title_color=007ACC&icon_color=007ACC&include_all_commits=true&theme=radical" />
+  <img alt="Nv_Ram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000&title_color=007ACC&icon_color=007ACC&include_all_commits=true&layout=compact&theme=radical" />
+  <img alt="Nv_Ram's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kolia261&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -68,8 +68,9 @@
 ## 📫 CONNECT WITH ME
 
 <p align="center">
-  <a href="mailto:bv606118@gmail.com">Email</a> • 
-  <a href="https://t.me/Nv_baranov" target="_blank">Telegram</a>
+  <a href="mailto:bv606118@gmail.com">📧 Email</a> |
+  <a href="https://t.me/Nv_Ram" target="_blank">📱 Telegram</a> |
+  <a href="https://linkedin.com/in/nv-ram" target="_blank">🔗 LinkedIn</a>
 </p>
 
 ---
