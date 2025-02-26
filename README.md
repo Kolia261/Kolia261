@@ -23,7 +23,6 @@
 <div>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/aiogram-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/sqlalchemy-%238777BF.svg?style=for-the-badge&logo=sqlalchemy&logoColor=ffffff" />
 </div>
