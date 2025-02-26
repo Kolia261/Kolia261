@@ -68,9 +68,7 @@
 ## 📫 CONNECT WITH ME
 
 <p align="center">
-  <a href="mailto:bv606118@gmail.com">📧 Email</a> |
-  <a href="https://t.me/Nv_Ram" target="_blank">📱 Telegram</a> |
-  <a href="https://linkedin.com/in/nv-ram" target="_blank">🔗 LinkedIn</a>
+  <a href="mailto:bv606118@gmail.com">📧 Email</a> 
 </p>
 
 ---
