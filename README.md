@@ -1,12 +1,10 @@
 
-<h1 align="center">👋 HI THERE, I'M <a style="text-decoration:none;" href="https://github.com/Kolia261" target="_blank">Nv_Ram</a></h1>
+<h1 align="center">👋 HI THERE, I'M <a style="text-decoration:none;" href="[https://github.com/Kolia261](https://kolia261.github.io/)" target="_blank">Nv_Ram</a></h1>
 
 <div align="center">
   <img alt="Nv_Ram's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000&title_color=007ACC&icon_color=007ACC&include_all_commits=true&theme=radical" />
   <img alt="Nv_Ram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kolia261&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000&title_color=007ACC&icon_color=007ACC&include_all_commits=true&layout=compact&theme=radical" />
-  <img alt="Nv_Ram's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kolia261&theme=radical&hide_border=true" />
-</div>
-
+  
 ---
 
 ## 🛠️ TECHNICAL STACK
